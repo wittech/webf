@@ -1,4 +1,4 @@
-name: appzoo_webf
+name: webf
 description: A W3C standard compliant Web rendering engine based on Flutter.
 version: 0.13.1
 homepage: https://openwebf.com
